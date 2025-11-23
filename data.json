@@ -1,0 +1,47 @@
+[
+{
+    "nome": "Jericoacoara",
+    "descrição": "Uma vila de pescadores no Ceará, famosa por suas dunas, lagoas de água doce e praias paradisíacas.",
+    "link": "https://www.youtube.com/watch?v=akzA0wXOtKU",
+    "imagem": "imagens/jericoacoara.jpg"
+        
+},
+
+{
+    "nome": "Fernando de Noronha",
+    "descrição": "Um arquipélago no estado de Pernambuco, conhecido por suas praias deslumbrantes, vida marinha rica e áreas de preservação ambiental.",
+    "link": "https://www.youtube.com/watch?v=JzpN2SG9bik",
+    "imagem": "imagens/fernando de noronha.jpg"
+},
+
+{
+    "nome": "Tiradentes",
+    "descrição": "Uma cidade histórica em Minas Gerais, famosa por sua arquitetura colonial bem preservada, ruas de paralelepípedos e rica cultura.",
+    "link": "https://www.youtube.com/watch?v=Blqit1ZS9bk",
+    "imagem": "imagens/tiradentes.jpg"
+
+}, 
+
+{
+    "nome": "Lençóis Maranhenses",
+    "descrição": "Um parque nacional no Maranhão, conhecido por suas vastas dunas de areia branca intercaladas com lagoas de água doce que se formam durante a estação chuvosa.",
+    "link": "https://www.youtube.com/watch?v=ynshX86DfW8",
+    "imagem": "imagens/lencoismaranhenses.jpg"
+},
+
+{
+    "nome": "El Calafate",
+    "descrição": "Uma cidade na Patagônia Argentina, famosa por ser a porta de entrada para o Parque Nacional Los Glaciares e o impressionante Glaciar Perito Moreno.",
+    "link": "https://www.youtube.com/watch?v=DGfiAtWj1Dk",
+    "imagem": "imagens/elcalafate.jpg"
+},
+
+{
+    "nome": "Ushuaia",
+    "descrição": "Conhecida como a cidade mais ao sul do mundo, localizada na Terra do Fogo, Argentina, é famosa por suas paisagens deslumbrantes, montanhas e proximidade com a Antártida.",
+    "link": "https://www.youtube.com/watch?v=3Fz599MLqSg",
+    "imagem": "imagens/ushuaia.jpg"
+}
+
+
+]
